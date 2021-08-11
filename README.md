@@ -4,7 +4,7 @@ In this Project we implement a paper (https://arxiv.org/pdf/1803.07728.pdf) that
 
 ### Project Learning Objectives
 The learning objectives of this project:
-1. Learn how to use pytorch Dataset/DataLoade toload and preprocess data
+1. Learn how to use pytorch Dataset/DataLoader to load and preprocess data
 2. Training a model from scratch and frequently checkpointing models
 3. Implement good software engineering skills including the use of virtual environments, git (for partner work), and OOP
 
